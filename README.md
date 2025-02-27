@@ -21,8 +21,7 @@ The goal of this project is to compare the performance of different machine lear
 ---
 
 ## Dataset
-The dataset used in this project is not included in this repository. However, it is assumed that the dataset has been preprocessed and split into training and testing sets before being fed into the models.
-
+The dataset used in this project is included in this repository.
 ---
 
 ## Preprocessing
